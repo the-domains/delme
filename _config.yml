@@ -1,0 +1,28 @@
+name: delme
+favicon: null
+layout_spectrum: 0.02738204412162304
+typography_spectrum: 0.23964561568573117
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.9362486999016255
+  lightness: 0.8619365736376494
+  saturation: 0.18399282987229526
+  rhythmicContrast: 0.2983453613705933
+purpose: []
